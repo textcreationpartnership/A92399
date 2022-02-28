@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Remarkable propositions by the councell in Ireland, humbly recommended to the Parliament in England, desiring them to move the judges to deliver their resolutions concerning the ensuing questions, being in number 21. Together with the declaration of both Houses of Parliament, Die Iovis 12. May, 1642. Ordered by the Lords and Commons assembled in Parliament, that the said decalration shall be forthwith printed and published. John Brown Cler. Parl.</title>
+            <author>Ireland. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92399</idno>
+            <idno type="STC">Wing R927</idno>
+            <idno type="STC">Thomason E148_3</idno>
+            <idno type="STC">ESTC R4389</idno>
+            <idno type="EEBO-CITATION">99872668</idno>
+            <idno type="PROQUEST">99872668</idno>
+            <idno type="VID">156685</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92399)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156685)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E148[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Remarkable propositions by the councell in Ireland, humbly recommended to the Parliament in England, desiring them to move the judges to deliver their resolutions concerning the ensuing questions, being in number 21. Together with the declaration of both Houses of Parliament, Die Iovis 12. May, 1642. Ordered by the Lords and Commons assembled in Parliament, that the said decalration shall be forthwith printed and published. John Brown Cler. Parl.</title>
+                  <author>Ireland. Parliament.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>for W. G. and are to be sold by T. Bates,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of title: May 18.</note>
+                  <note>At head of text on p. 3: Propositions by the Parliament in Ireland ...</note>
+                  <note>"Die Iovis 12 May, 1642. The declaration of both Houses of Parliament" on p. 8 is a reprint of Steele 2127 (England); Wing (2nd ed) E1339A.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1625-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156685:1"/>
+            <pb facs="tcp:156685:1" rendition="simple:additions"/>
+            <p>
+               <hi>Remarkable May</hi> 18. PROPOSITIONS By the COVNCELL IN IRELAND, Humbly Recommended to the Parliament in <hi>England,</hi> deſiring them to move the Judges to deliver their Reſolutions concerning the enſuing Queſtions, being in number 21.</p>
+            <p>Together with the Declaration of both Hou<g ref="char:EOLhyphen"/>ſes of Parliament, <hi>Die Iovis</hi> 12. <hi>May,</hi> 1642.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="Parliamentary_order">
+                        <p>Ordered by the Lords and Commons aſſembled in Parliament, That the ſaid Declaration ſhall be forthwith Printed and Publiſhed.</p>
+                        <closer>
+                           <signed>John Brown Cler. Parl.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Printed at London for <hi>W. G.</hi> and are to be ſold by <hi>T. Bates.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="propositions">
+            <pb facs="tcp:156685:2"/>
+            <pb facs="tcp:156685:2"/>
+            <head>Propoſitions by the Parliament in Ire<g ref="char:EOLhyphen"/>land, humbly deſiring the Parliament in England to move the Iudges to deliver their Reſolutions.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N as much as the Subjects of this Kingdome are free, loyall, and du<g ref="char:EOLhyphen"/>tifull ſubjects to his moſt excellent Majeſty, their naturall Liege Lord and King, and to be governed on<g ref="char:EOLhyphen"/>ly by the Common Laws of Eng<g ref="char:EOLhyphen"/>land, and Statutes of force in this Kingdome, in the ſame manner and forme as his Ma<g ref="char:EOLhyphen"/>jeſties ſubjects of the Kingdome are and ought to bee governed by the <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Common Law of land Statutes of force in that Kingdome, which of right the ſubjects of this Kingdome doe challenge, and make their pro<g ref="char:EOLhyphen"/>teſtation to be their birthright and beſt inheritance.</p>
+            <p>In as much as the unlawfull actions and proceedings of ſome of his Majeſties Officers and Miniſters of Iu<g ref="char:EOLhyphen"/>ſtice of late yeares introduced and practiſed in this Kingdome, did tend to the infringing and violation of the lawes, liberties, and freedome of the ſaid ſubjects, contrary to his Majeſties royall and pious intent <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <p>Therefore the Knights, Citizens, and Burgeſſes in
+<pb facs="tcp:156685:3"/>Parliament aſſembled, not for any doubt or ambiguity which may be conceived or thought concerning the premiſſes, nor of the enſuing Queſtions, but for mani<g ref="char:EOLhyphen"/>feſtation and declaration of a cleare truth, and of the ſ<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lawes and Statutes already planted in this King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>The ſaid Knights, Citizens, and Burgeſſes do therfore pray both houſes of Parliament may joyn in requiring the Iudges forthwith to declare in writing their Reſo<g ref="char:EOLhyphen"/>lutions of, and unto the enſuing Queſtions, and ſub<g ref="char:EOLhyphen"/>ſcribe to the ſame.</p>
+            <p n="1">1. Whether the Subjects of this Kingdome bee a free people, and to be governed only by the Common Lawes of England, and Statutes of force in this King<g ref="char:EOLhyphen"/>dome?</p>
+            <p n="2">2. Whether the Iudges of this Land do take the oath of Iudges, and if ſo, whether upon pretence of any Act of State, Proclamation, Letter, or Direction un<g ref="char:EOLhyphen"/>der the Great or Privy Seale, or Privy Signer, or Let<g ref="char:EOLhyphen"/>ter, or other Commandment from the Lord Lieute<g ref="char:EOLhyphen"/>nant, Lord Deputy, Iuſtice or Iuſtices, or other chiefe Governour of this Kingdome, they may hinder, ſtay, or delay the ſuit of any ſubject, or his Iudgement or Execution thereupon. If ſo, in what caſes, and whether if they doe hinder, ſtay, or delay ſuch ſuits, judgements or executions thereupon, what puniſhment doe they in<g ref="char:EOLhyphen"/>curre therefore?</p>
+            <p n="3">3. Whether the Kings Majeſties Privy Counſell, either with the chiefe Governour or Governours of this Kingdome, or without him or them, be a place of Iudicature by the Common Lawes: and whether in caſes betweene party and party for debts, treſpaſſes,
+<pb facs="tcp:156685:3"/>accounts, poſſeſſion, or trial of Land, and which of them may be heard and determined; and of what Ci<g ref="char:EOLhyphen"/>vill cauſes they have juriſdiction, and by what Law, and of what force is their Order or Decree in ſuch ca<g ref="char:EOLhyphen"/>ſes, or any of them.</p>
+            <p n="4">4. The like of the chiefe Governour alone.</p>
+            <p n="5">5. Whether grants of Monopolies bee warranted by Law, and of what, and in what caſes, and how, and where, and by whom are the tranſgreſſors againſt ſuch grants puniſhable: and whether by fine, mutilation of members, impriſonment, loſſe, or forfeiture of goods, or otherwiſe; and which of them?</p>
+            <p n="6">6. In what caſes the Lord Lieutenant, or other chief Governour or Governours of this Kingdome, and Councell, may puniſh by fine, mutilation of members, Pillory, or otherwiſe; whether they may ſentence any to ſuch puniſhments for infringing commands of, or concerning any Proclamation, or and concerning Mo<g ref="char:EOLhyphen"/>nopolies; and what puniſhment doe they incurre that vote for the ſame?</p>
+            <p n="7">7. Of what force is an Act of State or Proclama<g ref="char:EOLhyphen"/>tion in this Kingdome, to binde the liberties, goods, poſſeſſions, or inheritance of the natives thereof; whe<g ref="char:EOLhyphen"/>ther they or any of them can alter the Common Law, or the infringers of them, loſe their goods, chattels, or leaſes, or forfeit the ſame for infringing any ſuch Act of State, Proclamation, or both; and what puniſhment doe the Iudges of the Law that are Privie Councellors incurre, that vote for ſuch Acts, or execution thereof?</p>
+            <p n="8">8. Are the ſubj<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cts of this Kingdome ſubject to the Marſh<gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>ll Law; and whether any man in time of peace, and no enemy being in the field with banner diſplaid,
+<pb facs="tcp:156685:4"/>can be ſentenced to death: if ſo, by whom, and in what caſe; if not, what puniſhment doe they incurre, that in time of peace doe execute Marſhall Law?</p>
+            <p n="9">9. Whether voluntarily oathes taken freely before Arbitrators, for affirmance or diſaffirmance of any thing, be puniſhable in the Caſtle Chamber, or any o<g ref="char:EOLhyphen"/>ther Court, and why, and wherefore?</p>
+            <p n="10">10. Why, and by what Law, and by what rule of policy is it, that none is admitted to reducement of fine or other penalties in the Caſtle Chamber, or Councell Chamber, untill he confeſſe the offence for which hee is cenſured?</p>
+            <p n="11">11. Whether the Iudges of the Kings Bench, or any of the Iudges of the Gaole delivery, or any other Court, and by what Law doe or can deny the copies of indictments of felony or treaſon to the parties accu<g ref="char:EOLhyphen"/>ſed, contrary to the law?</p>
+            <p n="12">12. What power hath the Barons of the Exche<g ref="char:EOLhyphen"/>quer to raiſe the reſpit of homage arbitrarily, to what rate they pleaſe, by what Law they may diſtinguiſh be<g ref="char:EOLhyphen"/>tweene the reſpit of homage upon the diverſity of the true value of the fees, whereas Elcuage is the ſame for great and ſmall fees, and are proportionable by Par<g ref="char:EOLhyphen"/>liament?</p>
+            <p n="13">13. Whether it be cenſurable in the ſubjects of this Kingdome to repaire into England to appeale unto his Majeſty for redreſſe of injury, or for other lawfull oc<g ref="char:EOLhyphen"/>caſions, if ſo, why and what condition of perſons, and by what law?</p>
+            <p n="14">14. Whether Deanes and other dignitories of Cathedrall Churches, be properly, and <hi>de mero june</hi> donative, and not elective and collative; if ſo, why,
+<pb facs="tcp:156685:4"/>and by what Law, and whether the confirmation of a Deane <hi>de facto</hi> of the Biſhops grant be good and va<g ref="char:EOLhyphen"/>lid in Law, if not, by what Law?</p>
+            <p n="15">15. Whether the iſſuing of <hi>Quo warranto</hi> out of the Kings Bench or Exchequer, againſt Buroughes that an<g ref="char:EOLhyphen"/>ciently ſent Burgeſſes to the Parliament, to ſhew cauſe why they ſent Burgeſſes, be legall; if not, what puniſh<g ref="char:EOLhyphen"/>ment ought to be inflicted upon them that have beene the occaſioners, procurers, and Iudges of and in ſuch <hi>Quo warranto's?</hi>
+            </p>
+            <p n="16">16. By what Law are Iurors that give verdict accor<g ref="char:EOLhyphen"/>ding to then conſciences, and are the ſole Iudges of the facts cenſured in the Caſtle Chamber in great fines, and ſometimes Pillory, with loſſe of eares, and bored through the tongue, and marked ſometimes in the fore<g ref="char:EOLhyphen"/>head with a hot iron, and other like puniſhments?</p>
+            <p n="17">17. By what Law are men cenſurable in the Caſtle Chamber, with mutilation of members, or any other brand of infamy; and in what cauſes, and what puniſh<g ref="char:EOLhyphen"/>ment in each cauſe there is due, without reſpect of the quality of perſons?</p>
+            <p n="18">18. Whether in the Cenſures in the Caſtle Cham<g ref="char:EOLhyphen"/>ber regard be to bee had to the words of the great Charter, <hi>viz. Salvo contenemento.</hi>
+            </p>
+            <p n="19">19. Whether it one that ſteales a ſheepe, or com<g ref="char:EOLhyphen"/>mit any other felony, and alter flyeth the courſe of Iu<g ref="char:EOLhyphen"/>ſtice, or lyeth in woods or mountaines, upon his keep<g ref="char:EOLhyphen"/>ing bee a traytor, if not, whether a proclamation can make him ſo?</p>
+            <p n="20">20. Whether the teſtimony or verdict of Rebells, Traytors, protected Theeves, or other infamous per<g ref="char:EOLhyphen"/>ſons, be good evidence in law to be preſſed at the triall
+<pb facs="tcp:156685:5"/>of men for their lives; or whether the Iudge or Iurors ought to be Iudge of the matter in fact?</p>
+            <p n="21">21. By what Law are Fayres and Markets to bee held <hi>in Capite,</hi> when no other expreſſe tenure is men<g ref="char:EOLhyphen"/>tioned in his Majeſties Letters Patents or Grants of the ſ<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me Fayres or Markets, although the rents or year<g ref="char:EOLhyphen"/>ly ſum be reſerved thereout?</p>
+         </div>
+         <div type="declaration">
+            <opener>
+               <date>
+                  <hi>Die Iovis</hi> 12. <hi>May,</hi> 1642.</date>
+            </opener>
+            <head>The Declaration of both Houſes of Parliament.</head>
+            <p>THe Lords and Commons aſſembled in Parliament doe declare, That they are reſolv'd to maintaine thoſe Lords and Gentle<g ref="char:EOLhyphen"/>men, Committees of both Houſes of Parliament reſiding at Yorke, in thoſe things they have done, and ſhall further doe in obedience of their Commands for the preſerving the peace of the Kingdome.</p>
+            <p>The Lords and Commons doe declare, That if any perſon what<g ref="char:EOLhyphen"/>ſoever ſhall arreſt, or impriſon the perſons of thoſe Lords and Gen<g ref="char:EOLhyphen"/>tlemen, or any of them, or any member of either Houſe, that are, or ſhall be imployed in the ſervice of both Houſes of Parliament; or ſhall offer violence to them, or any of them, for doing of any thing in purſuance of their Commands, or the Inſtructions of both Houſes, given unto them ſhall held Diſturbers of the proceedings of Par<g ref="char:EOLhyphen"/>liament, and publike enemies of the State. And that all perſons are bound by their Proteſtation, to endeavour to bring them to con<g ref="char:EOLhyphen"/>digne puniſhment.</p>
+            <p>The Lords and Commons doe declare, That thoſe of the City of London, and all other perſons that have obeyed the Ordinance for the <hi>Militia;</hi> and done any thing in execution thereof, have done it according to the Law of the Land, and in purſuance of what they were commanded by both Houſes of Parliament, and for the defence and ſafety of the King and Kingdome, and ſhall have the aſſiſtance of both Houſes of Parliament, againſt any that ſhall preſume to queſtion them, for yeelding their obedience to the ſaid command, in this neceſſary and important ſervice; And that whoſoever ſhall obey the ſaid Ordinance for the time to come, ſhall receive the ſame ap<g ref="char:EOLhyphen"/>probation and aſſiſtance from both Houſes of Parliament.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
